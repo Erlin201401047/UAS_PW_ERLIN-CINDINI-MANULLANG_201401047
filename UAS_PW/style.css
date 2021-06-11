@@ -1,0 +1,32 @@
+.carousel .carousel-item{
+	height: 500px;
+}
+
+.carousel img{
+	min-height: 800px;
+	object-fit: cover;
+}
+
+nav{
+	color: black;
+	font-family: bakso sapi;
+	font-size: 15px;
+}
+
+body{
+	font-family: lucida console;
+	font-size : 12px;
+	color : brown;
+}
+
+table{
+	font-family: bakso sapi;
+	font-size: 15px;
+}
+
+footer{
+		font-family : internet friends; 
+		font-size : 20px;
+		text-align: center;
+		color : brown;
+	}
